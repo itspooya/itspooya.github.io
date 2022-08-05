@@ -1,19 +1,26 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Site Reliability Engineer at ArvanCloud (Tehran, Iran)
+- company: ArvanCloud
+  position: Site Reliability Engineer(CDN)
+  duration: May, 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Created backup validation for Databases</li><li>Setup and maintain more than 10 new edge servers</li><li>Refactored and improved the code of exporters which led to nearly 10% lowerresource usage and higher uptime</li><li>Automated deployment of resources to Kubernetes via Helm and Salt(automation management software)</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Site Reliability Engineer at ArvanCloud (Tehran, Iran)
+- company: ArvanCloud
+  position: Site Reliability Engineer(Tools)
+  duration:  Sep, 2020 &mdash; Apr, 2022
+  summary: <ul class="resume-item-list"><li>Created backup validation for Databases</li><li>Automated backup process using Python-3, Bash, and Golang</li><li>Improved monitoring solution by making it highly available with Prometheus Stack</li><li>Developed several exporters to increase visibility </li><li>Interviewed, onboarded managed 2 DevOps Engineers</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# DevOps Engineer at Profile.ir (Mashad, Iran)
+- company: Profile.ir
+  position: DevOps Engineer
+  duration:   Mar, 2020  &mdash; Sep, 2020
+  summary: <ul class="resume-item-list"><li>Migrated monolithic codebase to microservice</li><li>Automated server deployment using Ansible</li><li>Created monitoring solutions based on organization needs</li><li>Developed a queue-like solution for online video conference solution</li></ul>
+
+# Freelance Python Developer
+- company: Freelance
+  position: Python Developer
+  duration:   Feb, 2019  &mdash; Feb, 2020
+  summary: <ul class="resume-item-list"><li> Developed APIs with Python Flask and Databases such as MySQL, MongoDB</li><li>Developed Scrapers and website crawlers using Selenium, Beautiful Soup and Scrapy</li><li>- Created a website for a hotel with more than hundreds of clients using it daily</li><li>Created a middleware to connect and synchronize between a Woocommerce websiteand their warehouse management system.</li><li>Created a telegram bot in order to integrate notifications and simple user interactionsfor client</li><li> Created an integration between E-commerce CMS and API which would increase thebalance of users</li><li>Tuned web services to increase service performance by adding caching systems,Message queues, and fixing mistakes in code</li></ul>
+
